@@ -1,2 +1,3 @@
 # markmax-plugin-example
-Plugin development example/template for MarkMax
+
+Plugin development example/template for MarkMax.
